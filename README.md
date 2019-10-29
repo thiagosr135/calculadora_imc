@@ -1,16 +1,20 @@
-# calculadora_imc
+ # Calculadora IMC
 
-A new Flutter project.
+Um projeto simples em Flutter para meu aprendizado.
 
-## Getting Started
+![](giphy_imc.gif)
 
-This project is a starting point for a Flutter application.
+## Entenda seus níveis
 
-A few resources to get you started if this is your first Flutter project:
+| Abaixo do peso | Peso normal | Sobrepeso/pré-obsidade | Obesidade Grau I | Obesidade Grau II | Obesidade Grau III |
+|----------------|-------------|------------------------|------------------|-------------------|--------------------|
+|      18,5      | 18,6 - 24,9 |      25,0 - 29,9       |   30,0 - 34,9    |    35,0 - 39.9    |   Acima de 40,00   |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Fonte: *http://www.abeso.org.br/atitude-saudavel/imc*
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Clonar repositório
+
+`` git clone https://github.com/thiagosr135/calculadora_imc.git ``
+
+## Autor
+* **Thiago de Souza Ribeiro** - [thiagosr135](https://github.com/thiagosr135)
