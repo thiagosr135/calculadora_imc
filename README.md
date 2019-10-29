@@ -4,7 +4,7 @@ Um projeto simples em Flutter para meu aprendizado.
 
 ![](giphy_imc.gif)
 
-## Entenda seus níveis
+## Entenda seu nível
 
 | Abaixo do peso | Peso normal | Sobrepeso/pré-obsidade | Obesidade Grau I | Obesidade Grau II | Obesidade Grau III |
 |----------------|-------------|------------------------|------------------|-------------------|--------------------|
